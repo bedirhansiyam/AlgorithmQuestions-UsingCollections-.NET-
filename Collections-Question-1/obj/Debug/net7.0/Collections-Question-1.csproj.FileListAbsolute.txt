@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\Collections-Question-1.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\Collections-Question-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\Collections-Question-1.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\Collections-Question-1.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\Collections-Question-1.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\bin\Debug\net7.0\Collections-Question-1.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\bin\Debug\net7.0\Collections-Question-1.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\bin\Debug\net7.0\Collections-Question-1.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\bin\Debug\net7.0\Collections-Question-1.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\bin\Debug\net7.0\Collections-Question-1.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\Collections-Question-1.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\refint\Collections-Question-1.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\Collections-Question-1.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\Collections-Question-1.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Collections-Question-1\obj\Debug\net7.0\ref\Collections-Question-1.dll
